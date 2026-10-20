@@ -31,6 +31,9 @@ Students I supervise or co-supervise:
 - **Pavlos Livitsanos** (2025-2026), ENPC, IP Paris.
 - **Evgeni Georgiev** (2025-2026), Imperial College London.
 - **Diesel Tsang** (2025-2026), Imperial College London.
+- **Nathan Baily** (2024-2025), Imperial College London.
+- **Mitrea Mihai** (2024-2025), Imperial College London.
+- **Sabnis Abhishek** (2024-2025), Imperial College London.
 
 ## Major academic collaborators
 - **[Marc Bocquet](https://cerea.enpc.fr/HomePages/bocquet/)**, ENPC, IP Paris, France.

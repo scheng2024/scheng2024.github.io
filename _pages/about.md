@@ -9,11 +9,24 @@ redirect_from:
 
 ## About me
 
-I am a Junior Professor (Chaire de Professeur Junior) at ENPC, Institut Polytechnique de Paris and an Honorary Research Fellow at Imperial College London.
+I am a Junior Professor (Chaire de Professeur Junior) at
+[ENPC](https://ecoledesponts.fr/en),
+[Institut Polytechnique de Paris](https://www.ip-paris.fr/en)
+and an Honorary Research Fellow at
+[Imperial College London](https://www.imperial.ac.uk/).
 
-My research combines **data assimilation, machine learning and uncertainty quantification** for high-dimensional dynamical systems. I develop methods that connect numerical simulations with sparse observations, with applications to **wildfire forecasting, air quality and computational physics**.
+My research combines **data assimilation, machine learning and uncertainty
+quantification** for high-dimensional dynamical systems. I develop methods
+that connect numerical simulations with sparse observations, with
+applications to **wildfire forecasting, air quality and computational
+physics**.
 
-Before joining ENPC in 2024, I was a Research Associate at Imperial College London from 2020 to 2024. I obtained my PhD from Université Paris-Saclay in 2020, working on error covariance specification in data assimilation in collaboration with EDF R&D.
+Before joining ENPC in 2024, I was a Research Associate at the
+[Data Science Institute](https://www.imperial.ac.uk/data-science/),
+Imperial College London, from 2020 to 2024. I obtained my PhD from
+[Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)
+in 2020, working on error covariance specification in data assimilation
+in collaboration with [EDF R&D](https://www.edf.fr/en/the-edf-group/innovating-for-the-future/rd-global-expertise).
 
 ## Research interests
 

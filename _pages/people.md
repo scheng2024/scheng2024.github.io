@@ -33,10 +33,10 @@ Students I supervise or co-supervise:
 - **Diesel Tsang** (2025-2026), Imperial College London.
 
 ## Major academic collaborators
-- **Marc Bocquet**, ENPC, IP Paris, France.
-- **Rossella Arcucci**, Imperial College London, UK.
-- **Didier Lucor**, Université Paris-Saclay, France.
-- **Nan Chen**, University of Wisconsin-Madison, USA.
-- **Lincoln Xu**, University of Calgary, Canada.
-- **Xujia Zhu**, Université Paris-Saclay, France.
+- **[Marc Bocquet](https://cerea.enpc.fr/HomePages/bocquet/)**, ENPC, IP Paris, France.
+- **[Rossella Arcucci](https://profiles.imperial.ac.uk/r.arcucci)**, Imperial College London, UK.
+- **[Didier Lucor](https://perso.lisn.upsaclay.fr/lucor/)**, Université Paris-Saclay, France.
+- **[Nan Chen](https://people.math.wisc.edu/~nchen29/index.html)**, University of Wisconsin-Madison, USA.
+- **[Lincoln Xu](https://profiles.ucalgary.ca/lincoln-linlin-xu)**, University of Calgary, Canada.
+- **[Xujia Zhu](https://l2s.centralesupelec.fr/u/zhu-xujia/)**, Université Paris-Saclay, France.
 

@@ -8,7 +8,7 @@ author_profile: true
 ## Postdoctoral researchers
 
 - **Chaopeng Ji** (2025–present), ENPC, IP Paris.  
-  Generative AI for numerical weather prediction, main supervisor: Marc Bocquet.
+  Generative AI for numerical weather prediction, primary supervisor: Marc Bocquet.
 
 ## PhD students
 

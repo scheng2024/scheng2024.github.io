@@ -19,7 +19,7 @@ with applications to wildfire, atmospheric science and fluid dynamics.
 
 **Differentiable Digital Twin for Wildfire Prediction & Control**
 
-**Role:** Starting Fellow and Project Lead  
+**Role:** Principal Investigator 
 **Programme:** Hi! PARIS Internal Chairs / Fellowships, 2026 cohort
 
 This project develops a differentiable digital twin for wildfire
@@ -35,7 +35,7 @@ calibration and prediction to support effective fire management.
 
 **Optimizing Real-Time Wildfire Fighting Strategies Using Machine Learning Techniques**
 
-**Role:** Principal Investigator (PI) and Project Coordinator  
+**Role:** Principal Investigator 
 **Funding:** ANR — ANR-25-CE56-0198  
 **Period:** 2025–2029
 
@@ -53,7 +53,7 @@ firefighting strategies.
 
 ### MilaDy — Machine Learning for Turbulent Dynamos
 
-**Role:** Co-Investigator (Co-I), CEREA / ENPC  
+**Role:** Co-Investigator  
 **Project Coordinator:** Caroline Nore, LISN, Université Paris-Saclay  
 **Funding:** ANR — ANR-25-CE51-0077  
 **Start:** 2026
@@ -77,7 +77,7 @@ assimilation.
 
 **Quantifying the Vulnerability of Forest Ecological Values to Wildfires**
 
-**Role:** CEREA / ENPC Investigator, contributing to WP3  
+**Role:** Co-Investigator 
 **Project Coordinator:** Florent Mouillot, IRD  
 **Funding:** France 2030 — PEPR FORESTT, ANR-25-PEFO-0008  
 **Period:** 2025–2029

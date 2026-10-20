@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Opportunities"
+permalink: /opportunities/
+author_profile: true
+---
+
 ## Research Internship + PhD (2027) — MilaDy
 
 I am recruiting a PhD student to develop physics-aware machine learning

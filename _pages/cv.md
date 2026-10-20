@@ -7,15 +7,17 @@ author_profile: true
 
 ## Academic Appointments
 
-**2024–present — Tenure-track Professor (CPJ)**  
-École des Ponts ParisTech, Institut Polytechnique de Paris, France.  
+**2024–present — Junior Professor (CPJ)**  
+[École nationale des ponts et chaussées](https://ecoledesponts.fr/en),
+[Institut Polytechnique de Paris](https://www.ip-paris.fr/en), France.  
 CEREA, research on data assimilation and scientific machine learning.
 
 **Honorary Research Fellow**  
-Imperial College London, United Kingdom.
+[Imperial College London](https://www.imperial.ac.uk/), United Kingdom.
 
 **2020–2024 — Research Associate**  
-Data Science Institute, Imperial College London, United Kingdom.
+[Data Science Institute](https://www.imperial.ac.uk/data-science/),
+Imperial College London, United Kingdom.
 
 ## Education
 
@@ -36,18 +38,13 @@ Research on data assimilation and uncertainty quantification.
 SAMA Working Group, Institut Pierre-Simon Laplace (IPSL), involving more
 than 20 permanent researchers.
 
-**2025 — Faculty Recruitment Panel Member**  
-Computer Science and Applied Mathematics Department, ENPC.
-Recruitment of an Assistant Professor.
-
 **2026–2027 — Guest Editor**  
-*Climate Physics and Atmospheric Science: Scientific Insights and Societal Challenges*.  
-Special issue: “Global Air Quality: Advances in Monitoring, Forecasting,
-and Applications”.
+[*Climate Physics and Atmospheric Science: Scientific Insights and Societal Challenges*](https://www.elsevier.com/locate/cpas).  
+Special issue: [“Global Air Quality: Advances in Monitoring, Forecasting, and Applications”](https://www.sciencedirect.com/special-issue/333085/global-air-quality-advances-in-monitoring-forecasting-and-applications).
 
 **2024–2025 — Executive Guest Editor**  
-*Computer Physics Communications*.  
-Special issue: “Advances in Physics-Aware Machine Learning”.
+[*Computer Physics Communications*](https://www.sciencedirect.com/journal/computer-physics-communications).  
+Special issue: [“Advances in Physics-Aware Machine Learning”](https://www.sciencedirect.com/special-issue/102QW7XKW9N).
 
 **2024–present — Early Career Editorial Board Member**  
 *Meteorological Applications*.
@@ -79,10 +76,3 @@ transformation models. Published in *Computer Physics Communications* (2025).
 A GPU-accelerated, differentiable cellular automata simulator for wildfire
 modelling and parameter calibration. Published in *Environmental Modelling
 & Software* (2025).
-
-## Publications
-
-See my [Publications page]({{ '/publications/' | relative_url }})
-for selected papers and the publication list.
-
-[Google Scholar](https://scholar.google.com/citations?user=Jj1UrwQAAAAJ&hl=en)

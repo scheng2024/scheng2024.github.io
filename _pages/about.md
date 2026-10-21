@@ -9,7 +9,7 @@ redirect_from:
 
 ## About me
 
-I am a Junior Professor (Chaire de Professeur Junior) at
+I am a Tenure-Track Junior Professor (Chaire de Professeur Junior) at
 [ENPC](https://ecoledesponts.fr/en),
 [Institut Polytechnique de Paris](https://www.ip-paris.fr/en)
 and an Honorary Research Fellow at
@@ -23,10 +23,15 @@ physics**.
 
 Before joining ENPC in 2024, I was a Research Associate at the
 [Data Science Institute](https://www.imperial.ac.uk/data-science/),
-Imperial College London, from 2020 to 2024. I obtained my PhD from
+Imperial College London, working with
+[Rossella Arcucci](https://profiles.imperial.ac.uk/r.arcucci),
+from 2020 to 2024. I obtained my PhD from
 [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)
-in 2020, working on error covariance specification in data assimilation
-in collaboration with [EDF R&D](https://www.edf.fr/en/the-edf-group/innovating-for-the-future/rd-global-expertise).
+in 2020 under the supervision of
+[Didier Lucor](https://perso.lisn.upsaclay.fr/lucor/),
+working on error covariance specification in data assimilation
+in collaboration with
+[EDF R&D](https://www.edf.fr/en/the-edf-group/innovating-for-the-future/rd-global-expertise).
 
 ## Research interests
 
